@@ -1,0 +1,48 @@
+html, head, body {
+	font-family: arial;
+	background-color: white;
+	margin: 0;
+	padding: 0;
+}
+
+a:link {
+	color: #f0f0f0;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #f0f0f0;
+	text-decoration: none;
+}
+
+.menuBar {
+	border: 1px solid;
+	border-color: black;
+	color: #f0f0f0;
+	text-align: center;
+	font-weight: bold;
+	background-color: black;
+	height: 85px;
+	width: 800px;
+	margin: auto;
+}
+
+.menuBar table tr td {
+	width: 50px;
+}
+
+.pageContent {
+	border: 1px solid;
+	border-color: black;
+	background-color: #f0f0f0;
+	height:70px;
+	width:800px;
+	margin: auto;
+}
+
+.footer {
+	text-align: center;
+	font-size: 5pt;
+	width: 800px;
+	margin: auto;
+}
